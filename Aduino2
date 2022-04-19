@@ -1,3 +1,5 @@
+// Sender Arduino
+
 #include <IRremote.h>
 
 int redLed = 11;
