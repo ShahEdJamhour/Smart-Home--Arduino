@@ -1,3 +1,4 @@
+// arduino1 receiver
 // ---------------------------------------------------------------- //
 #include <Servo.h> //includes the Servo library
 #define echoPin 6 // attach pin D2 Arduino to pin Echo of HC-SR04
